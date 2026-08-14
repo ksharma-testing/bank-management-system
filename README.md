@@ -1,2 +1,2 @@
-# Quiz-Application
-A simple Quiz Application built for learning app logic, UI design, and functional testing.
+# bank-management-system
+A Java application for managing banking operations like account creation, deposits, withdrawals, and balance inquiry.
